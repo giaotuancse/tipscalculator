@@ -18,4 +18,4 @@ doesn't have to tap anywhere to use this app. Just launch the app and start typi
 
 Gif Demo:
 
-![Alt text](https://github.com/giaotuancse/tipscalculator/blob/master/Untitled.gif "Optional title")
+![Alt text](https://github.com/giaotuancse/RottenTomato/blob/master/demo.gif "Optional title")
